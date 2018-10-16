@@ -1,8 +1,8 @@
-version: '3'
+version: '3.5'
 services:
   myapp:
-    image: wongsakorn/node-express-myprofile
+    image: tanatip2539/resume-tip
     ports:
-      - "8000:8000"
+      - "8017:8000"
     command: "npm start"
 
