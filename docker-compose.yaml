@@ -3,6 +3,6 @@ services:
   tanatip:
     image: tanatip2539/resume-tip
     ports:
-      - "8017:3000"
+      - "8017:8000"
     command: "npm start"
 
