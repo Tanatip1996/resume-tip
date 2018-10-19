@@ -1,4 +1,4 @@
-version: '3'
+version: '3.5'
 services:
   tanatip:
     image: tanatip2539/resume-tip
